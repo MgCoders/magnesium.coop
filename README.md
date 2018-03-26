@@ -14,5 +14,8 @@ https://themes.gohugo.io/minimal/
 
 
 ### Instrucctions
-cd magnesium
-hugo serve -D
+
+```cd magnesium
+
+```hugo serve -D
+
