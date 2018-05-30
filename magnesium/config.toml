@@ -1,4 +1,4 @@
-baseURL = "http://magnesium.coop/"
+baseURL = "https://magnesium.coop/"
 languageCode = "en-us"
 #title = "Magnesium"
 theme = "minimal"
