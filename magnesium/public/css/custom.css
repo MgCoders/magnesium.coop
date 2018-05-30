@@ -1,0 +1,13 @@
+.logo {
+    display: block;
+    text-indent: -9999px;
+    width: 426px;
+    height: 92px;
+
+    background: url(logo-magnesium.svg) center no-repeat;
+
+}
+
+.intro {
+    transform: translateY(32vh);
+}

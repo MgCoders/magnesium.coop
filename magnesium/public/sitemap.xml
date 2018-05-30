@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://magnesium.coop/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/project/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/project/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/project/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/bootstrap/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/css/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/go/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/golang/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/highlight-js/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/html/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/js/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/responsive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/syntax-highlighting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/template/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magnesium.coop/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
